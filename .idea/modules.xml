@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Netologi.iml" filepath="$PROJECT_DIR$/.idea/Netologi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netology/Netology.iml" filepath="$PROJECT_DIR$/Netology/Netology.iml" />
+    </modules>
+  </component>
+</project>
